@@ -1,0 +1,198 @@
+/* body{
+    min-width: 90vw;
+} */
+
+@media screen and (min-width: 768px) {
+  .similarJobs-0-2-673 {
+    padding: 0 16px;
+  }
+}
+
+.similarJobs-0-2-673 {
+  padding: 0 24px;
+}
+@media (min-width: 992px) {
+  .con-0-2-61 {
+    width: 984px;
+  }
+}
+
+@media (min-width: 768px) {
+  .con-0-2-61 {
+    width: 744px;
+  }
+}
+
+@media (min-width: 576px) {
+  .con-0-2-61 {
+    width: 564px;
+  }
+}
+
+.con-0-2-61 {
+  margin: 0 auto;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+* {
+  box-sizing: border-box;
+  font-family: HK Grotesk;
+}
+div {
+  display: block;
+}
+
+.con-0-2-61:before,
+.con-0-2-61:after {
+  content: "";
+  display: table;
+}
+
+.con-0-2-61:after {
+  clear: both;
+}
+
+.con-0-2-61:before,
+.con-0-2-61:after {
+  content: "";
+  display: table;
+}
+
+.con-0-2-61:before,
+.con-0-2-61:after {
+  content: "";
+  display: table;
+}
+/* parte 2 */
+@media screen and (max-width: 767px), (min-width: 991px) {
+  .card-0-2-675 {
+    padding: 0;
+    box-shadow: none;
+    border-radius: 0;
+  }
+}
+
+.card-0-2-675 {
+  overflow: hidden;
+}
+
+.flat-0-2-520 {
+  z-index: auto;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.12),
+    0 1px 6px 0 rgba(0, 29, 124, 0.05);
+}
+@media screen and (min-width: 768px) {
+  .card-0-2-518 {
+    padding: 32px;
+  }
+}
+
+.card-0-2-518 {
+  padding: 16px;
+  position: relative;
+  background: #ffffff;
+  transition: 0.3s box-shadow, 0.3s transform;
+  border-radius: 6px;
+}
+
+.aend-0-2-20 {
+  align-items: flex-end;
+}
+.jbetween-0-2-16 {
+  justify-content: space-between;
+}
+.flex-0-2-4 {
+  display: flex;
+}
+
+/*  */
+.headerContainer-0-2-685 {
+  width: 100%;
+  padding: 0;
+}
+@media (min-width: 992px) {
+  .con-0-2-61 {
+    width: 984px;
+  }
+}
+
+@media (min-width: 768px) {
+  .con-0-2-61 {
+    width: 744px;
+  }
+}
+@media (min-width: 576px) {
+  .con-0-2-61 {
+    width: 564px;
+  }
+}
+
+.con-0-2-61 {
+  margin: 0 auto;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.showApplyButton-0-2-678 {
+  margin-top: 16px;
+}
+
+/*  */
+.showApplyButton-0-2-678 button {
+  width: 350px;
+}
+@media screen and (max-width: 1199px) and (min-width: 768px) {
+  .button-0-2-695 {
+    height: auto;
+    padding: 8px 16px;
+  }
+}
+
+.md-0-2-135 {
+  height: 40px;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.primary-0-2-126 {
+  color: #ffffff;
+  border: 1px solid #f13465;
+  background: #f13465;
+}
+
+.btn-0-2-123 {
+  cursor: pointer;
+  height: 32px;
+  display: inline-block;
+  padding: 0 16px;
+  position: relative;
+  font-size: 13px;
+  max-width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  transition: 0.3s all;
+  font-family: "HK Grotesk", sans-serif;
+  font-weight: 600;
+  line-height: 24px;
+  user-select: none;
+  white-space: nowrap;
+  touch-action: manipulation;
+  border-radius: 6px;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/*  */
+.iconWrap-0-2-696 {
+  width: max-content;
+  overflow: hidden;
+  border-radius: 6px;
+}
